@@ -1,0 +1,11 @@
+# config/chargify.yml
+
+# set up different keys for development and production environments
+development:
+  subdomain: "Subdomain on chargify"
+  api_key: "API key"
+  site_key: "Site key"
+production:
+  subdomain: "Subdomain on chargify"
+  api_key: "API key"
+  site_key: "Site key"
