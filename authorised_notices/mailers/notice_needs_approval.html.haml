@@ -1,0 +1,6 @@
+// this would ordinarily be in app/view/user_mailer/
+%p
+  A notice has been #{@type} on 48harleystreetmembers.com that needs your approval.
+  %br
+  Please follow the link to approve/reject the comment
+  = link_to @notice_title, @url
