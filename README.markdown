@@ -1,4 +1,4 @@
-# Code Examples #
+# Code Samples #
 
 ## Authorised Notices ##
 
